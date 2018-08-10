@@ -1,4 +1,4 @@
-# svn-auto-update
+# svn_auto_update
 svn auto update svn 自动更新
 
 1,将 svn_auto_update 放入你要更新的目录
